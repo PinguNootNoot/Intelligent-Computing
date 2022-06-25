@@ -1,1 +1,1 @@
-# Intelligent-Computing
+Codes from the course Intelligent Computing.
